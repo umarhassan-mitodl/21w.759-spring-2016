@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ]
+  ],
+  "legacy_uid": "21c109c4-fa5a-02a0-d86a-38ff222d5e96",
+  "instructors": {
+    "content": [
+      "4188f62e-353d-9a45-df34-1d869485e93a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "381a6eb8-1393-d3e8-7ef4-91ecc43caf22",
+    "website": "21w-759-writing-science-fiction-spring-2016"
+  },
+  "course_title": "Writing Science Fiction",
+  "course_description": "This class will focus on the craft of writing genre science fiction. Students write and read science fiction and analyze and discuss stories written for the class. For the first eight weeks, readings in contemporary science fiction accompany lectures and formal writing assignments intended to illuminate various aspects of writing craft as well as the particular problems of writing science fiction. The rest of the term is given to roundtable workshops on student's stories.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.759",
+  "course_image_thumbnail": {
+    "content": "a504436f-0458-e5f4-256d-d9a94aaf13bb",
+    "website": "21w-759-writing-science-fiction-spring-2016"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "7b6bb407-254c-4fe1-8077-f6e5428d4a22",
+  "site_short_id": "21w.759-spring-2016",
+  "site_url_path": "courses/21w-759-writing-science-fiction-spring-2016",
+  "title": "Course Metadata"
+}
