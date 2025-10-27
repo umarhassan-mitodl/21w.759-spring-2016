@@ -5,8 +5,6 @@ description: This resource contains information regarding writing science fictio
 file: /courses/21w-759-writing-science-fiction-spring-2016/d05f0a013208f15f202188c67a43fcb6_MIT21W_759S16_Sacrifice2.pdf
 file_size: 352828
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

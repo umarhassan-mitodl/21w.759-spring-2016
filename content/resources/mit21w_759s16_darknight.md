@@ -5,8 +5,6 @@ description: This resource contains information regarding writing science fictio
 file: /courses/21w-759-writing-science-fiction-spring-2016/58444cb70702173c293d48d75c7844db_MIT21W_759S16_DarkNight.pdf
 file_size: 271056
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

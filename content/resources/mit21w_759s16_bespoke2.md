@@ -4,8 +4,6 @@ description: This resource contains information regarding 'Bespoke Ocean'.
 file: /courses/21w-759-writing-science-fiction-spring-2016/a227d72b0ca9898a95987a88201256dd_MIT21W_759S16_Bespoke2.pdf
 file_size: 603030
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

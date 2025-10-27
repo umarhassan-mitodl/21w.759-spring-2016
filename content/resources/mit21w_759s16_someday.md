@@ -5,8 +5,6 @@ description: This resource contains information regarding 'Someday There'll Be S
 file: /courses/21w-759-writing-science-fiction-spring-2016/3011e0383c1e3ee86ad9a56af888508e_MIT21W_759S16_Someday.pdf
 file_size: 636571
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

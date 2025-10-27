@@ -5,8 +5,6 @@ description: This resource contains information regarding writing science fictio
 file: /courses/21w-759-writing-science-fiction-spring-2016/cfea70e52e652433f425718daa368ca1_MIT21W_759S16_Dopple.pdf
 file_size: 254129
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

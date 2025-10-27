@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, schedule and readings, genre, textbooks, assignments,
   originality, grading, laptop policy, and plagiarism.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -45,9 +43,9 @@ Our reading will be science fiction short stories. While you are encouraged to w
 Textbooks
 ---------
 
-Evans, Arthur B., Istvan Csicsery-Ronay Jr., et al. _The Wesleyan Anthology of Science Fiction_. Wesleyan University Press, 2010. ISBN: 9780819569554. \[Preview with [Google Books](http://books.google.com/books?id=o5jqijleJT4C&pg=PAfrontcover)\]
+Evans, Arthur B., Istvan Csicsery-Ronay Jr., et al. _The Wesleyan Anthology of Science Fiction_. Wesleyan University Press, 2010. ISBN: 9780819569554. \[Preview with {{% resource_link "addefd62-59e9-41b7-977f-22a71ace0484" "Google Books" %}}\]
 
-Silverberg, Robert. _The Science Fiction Hall of Fame, Volume One 1929–1964: The Greatest Science Fiction Stories of All Time Chosen by the Members of the Science Fiction Writers of America_. Vol. 1. Tor Books, 2003. ISBN: 9780765305367. \[Preview with [Google Books](http://books.google.com/books?id=zG6TqbiMLjQC&pg=PAfrontcover)\]
+Silverberg, Robert. _The Science Fiction Hall of Fame, Volume One 1929–1964: The Greatest Science Fiction Stories of All Time Chosen by the Members of the Science Fiction Writers of America_. Vol. 1. Tor Books, 2003. ISBN: 9780765305367. \[Preview with {{% resource_link "5276faf5-3abb-4e06-a359-fa35818b89f9" "Google Books" %}}\]
 
 Assignments
 -----------
@@ -111,6 +109,6 @@ Plagiarism
 
 Using someone else's language and / or ideas without proper attribution is academically dishonest. As members of this class and the larger scholarly community you are expected to abide by the norms of academic honesty. While a good deal of collaboration is encouraged in and out of class, failing to acknowledge sources or willfully misrepresenting the work of others as your own will not be tolerated. Everything you submit must be your own work, written specifically for this class. Plagiarism can result in withdrawal from the course with a grade of F, suspension, or expulsion from the Institute.
 
-The booklet [_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students_](https://integrity.mit.edu/) explains these issues in detail, and you are responsible for understanding its contents. We will work on citing sources in class and discuss ways to acknowledge them properly. You are also welcome to consult the Writing Center's online advice on "[Avoiding Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/)."
+The booklet {{% resource_link "f922cc11-4090-4d18-a32f-dadc20444014" "_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students_" %}} explains these issues in detail, and you are responsible for understanding its contents. We will work on citing sources in class and discuss ways to acknowledge them properly. You are also welcome to consult the Writing Center's online advice on "{{% resource_link "04f4fb49-003f-416e-b058-508da4d30c70" "Avoiding Plagiarism" %}}."
 
 Please remember that while the internet makes plagiarism easier, it also makes it easier to catch. It is better to hand in poor work than stolen / copied work.
